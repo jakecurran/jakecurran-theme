@@ -6,7 +6,10 @@ min_version = "0.7.0"
 demo = "https://jakecurran.com"
 
 [extra]
-
+jakecurran_menu = [
+    { name = "Home", url = "$BASE_URL" },
+    { name = "Blog", url = "$BASE_URL/blog" },
+]
 
 [author]
 name = "Jake Curran"
