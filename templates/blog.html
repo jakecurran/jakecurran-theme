@@ -1,0 +1,10 @@
+{% extends "index.html" %}
+
+{% block content %}
+    <div class="posts">
+        {{ page.content | safe }}
+    </div>
+
+    <nav class="pagination">
+    </nav>
+{% endblock content %}
