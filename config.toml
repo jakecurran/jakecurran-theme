@@ -5,3 +5,4 @@ description = "Description"
 
 [extra]
 name = "First Last"
+favicon = "favicon.ico"
