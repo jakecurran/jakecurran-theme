@@ -19,6 +19,6 @@
 
   <footer>
     <hr />
-    <p>&copy; 2019 {{ config.extra.name }}.
+    <p>&copy; {{ now() | date(format="%Y") }} {{ config.extra.name }}.
   </footer>
 </html>
