@@ -1,0 +1,13 @@
+name = "jakecurran"
+description = "Theme for personal website and blog, jakecurran.com"
+license = "MIT"
+homepage = "https://github.com/jakecurran/jakecurran-theme"
+min_version = "0.7.0"
+demo = "https://jakecurran.com"
+
+[extra]
+
+
+[author]
+name = "Jake Curran"
+homepage = "https://jakecurran.com"
